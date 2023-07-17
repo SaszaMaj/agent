@@ -3,3 +3,4 @@ name = "aiohttp"
 version = "3.8.4"
 description = "Async http client/server framework (asyncio)"
 optional = false
+python-versions = ">=3.6"
