@@ -99,3 +99,4 @@ files = [
 [package.dependencies]
 aiosignal = ">=1.1.2"
 async-timeout = ">=4.0.0a3,<5.0"
+attrs = ">=17.3.0"
