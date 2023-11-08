@@ -106,3 +106,4 @@ multidict = ">=4.5,<7.0"
 yarl = ">=1.0,<2.0"
 
 [package.extras]
+speedups = ["Brotli", "aiodns", "cchardet"]
