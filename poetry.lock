@@ -120,3 +120,4 @@ files = [
 ]
 
 [package.dependencies]
+frozenlist = ">=1.1.0"
