@@ -127,3 +127,4 @@ name = "aiosqlite"
 version = "0.19.0"
 description = "asyncio bridge to the standard sqlite3 module"
 optional = false
+python-versions = ">=3.7"
