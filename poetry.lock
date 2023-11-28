@@ -129,3 +129,4 @@ description = "asyncio bridge to the standard sqlite3 module"
 optional = false
 python-versions = ">=3.7"
 files = [
+    {file = "aiosqlite-0.19.0-py3-none-any.whl", hash = "sha256:edba222e03453e094a3ce605db1b970c4b3376264e56f32e2a4959f948d66a96"},
